@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"sin nombre";console.log("Creando etiqueta h1");var n=document.createElement("h1");n.innerText="Hola ".concat(e),document.body.append(n)}("Fernando")})();
